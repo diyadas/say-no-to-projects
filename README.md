@@ -6,5 +6,5 @@ We have lots of guidance on how to say no to things that are not interesting to 
 This repo is an attempt to create a series of checklists for evaluating potential new and ongoing commitments. They're in the Projects tab.
 
 # Contributing (YES PLS)
-We welcome contributions to these lists! Please create an issue to ask to be added as a contributor.
+We welcome contributions to these lists! Please create an issue for each item you wish to add. You'll be credited by your GitHub username. Thanks!
 
