@@ -8,3 +8,5 @@ This repo is an attempt to create a series of checklists for evaluating potentia
 # Contributing (YES PLS)
 We welcome contributions to these lists! Please create an issue to ask to be added as a contributor.
 
+# Distribution and licensing
+This project is licensed under [the Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)]. In short, you are free to redistribute this, but must provide attribution to the authors and any changes you make and redistribute must also be released under this license. 
