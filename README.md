@@ -1,5 +1,5 @@
 # say-no-to-projects
-WIP framework for chronic overcommiters
+WIP framework for chronic overcommitters
 
 We have lots of guidance on how to say no to things that are not interesting to us. But not as much guidance on how to decide whether we are capable of taking on one of the many projects that are interesting to us.
 
